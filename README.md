@@ -11,18 +11,26 @@ This project aims to create a pharmacy and electronic prescription management sy
 • Definition of statistics:
 
 
-o user
-▪ Average prescription per user
-▪ users with more prescriptions
-▪ users who spend more
+▪ User
+
+- Average prescription per user
+
+- users with more prescriptions
+
+- users who spend more
 
 
-o doctors
-▪ Average prescription per doctor
-▪ doctors with more prescriptions
+▪ Doctors
+
+- Average prescription per doctor
+
+- Doctors with more prescriptions
 
 
-o medication
-▪ Stock
-▪ Stocks on alert
-▪ Best sellers
+▪ Medication
+
+- Stock
+
+- Stocks on alert
+
+- Best sellers
