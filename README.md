@@ -40,8 +40,3 @@ This project aims to create a pharmacy and electronic prescription management sy
 			- Best sellers
 			
 			
-## Authors
-
-* **ANA MACHADO** - *University of Minho* (https://github.com/anamsmachado)
-* **ANA RAMOS** - *University of Minho* (https://github.com/anaoramos)
-* **ANA SOUSA** - *University of Minho* (https://github.com/ReginaSousa8)
